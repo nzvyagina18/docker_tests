@@ -1,0 +1,4 @@
+selenium==3.141.0
+pytest==8.2.2
+urllib3==1.26.5
+allure-pytest==2.13.5
